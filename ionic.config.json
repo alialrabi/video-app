@@ -1,0 +1,8 @@
+{
+  "name": "youtube-project",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
